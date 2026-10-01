@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Icon Container / Badge -->
+    <path
+        android:fillColor="#1E1F25"
+        android:strokeColor="#464554"
+        android:strokeWidth="1.5"
+        android:pathData="M33,26 h42 a14,14 0 0 1 14,14 v42 a14,14 0 0 1 -14,14 h-42 a14,14 0 0 1 -14,-14 v-42 a14,14 0 0 1 14,-14 z" />
+
+    <!-- Branching Connectors -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4CD7F6"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,54 L53,54 C58,54 60,44 67,44" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#8083FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,54 L53,54 C58,54 60,64 67,64" />
+
+    <!-- Left Node (Cyan) -->
+    <path
+        android:fillColor="#4CD7F6"
+        android:pathData="M43,54m-6,0a6,6 0,1,1 12,0a6,6 0,1,1 -12,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,54m-2.2,0a2.2,2.2 0,1,1 4.4,0a2.2,2.2 0,1,1 -4.4,0" />
+
+    <!-- Right Top Node (Lavender/Indigo) -->
+    <path
+        android:fillColor="#C0C1FF"
+        android:pathData="M69,44m-5.5,0a5.5,5.5 0,1,1 11,0a5.5,5.5 0,1,1 -11,0" />
+
+    <!-- Right Bottom Node (Primary Container) -->
+    <path
+        android:fillColor="#8083FF"
+        android:pathData="M69,64m-5.5,0a5.5,5.5 0,1,1 11,0a5.5,5.5 0,1,1 -11,0" />
+</vector>

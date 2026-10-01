@@ -1,0 +1,6 @@
+{
+  "name": "KineticFlow",
+  "description": "Enterprise AI & Automation Systems platform featuring voice agents, workflow simulator, process explorer, and operational audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
